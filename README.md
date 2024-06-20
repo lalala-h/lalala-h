@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=console.log(%22Hava+a+nice+day%22)" alt="Typing SVG" /></a>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,rust,nuxt,react,nextjs,tailwind,nestjs,prisma,postgres,redis,supabase,wasm,vscode)](https://skillicons.dev)
